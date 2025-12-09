@@ -1,8 +1,4 @@
-Here is a **clean, professional, and easy-to-read README.md** for your FAQ project.
 
-You can copy & paste it directly into **README.md**.
-
----
 
 # 📘 FAQ Component – React.js
 
