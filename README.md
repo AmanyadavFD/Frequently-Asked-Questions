@@ -1,18 +1,35 @@
-# React + Vite
+Here is a **clean, professional, and easy-to-read README.md** for your FAQ project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can copy & paste it directly into **README.md**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 📘 FAQ Component – React.js
 
-## React Compiler
+A simple and clean **FAQ (Frequently Asked Questions)** component built using **React.js**.
+It supports an accordion-style behavior where users can expand/collapse answers.
+The **first FAQ is open by default**, and only one FAQ opens at a time.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* ✔ Built using **React Functional Components**
+* ✔ Uses **useState** for accordion logic
+* ✔ **First question opens automatically**
+* ✔ Smooth and clean UI (CSS based)
+* ✔ Only one FAQ open at a time
+* ✔ Simple and reusable component
+* ✔ Beginner-friendly code structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## 🛠 Technologies Used
+
+* **React.js**
+* **JavaScript (ES6+)**
+* **CSS3**
+
+
+
+If you want, I can also create a **GitHub description**, **preview GIF**, or **screenshots section** for your README.
