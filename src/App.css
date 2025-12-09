@@ -1,0 +1,104 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.faq-section {
+  padding: 40px 20px;
+  display: flex;
+
+
+  min-height: 100vh;
+}
+
+.faq-container {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.faq-card {
+  background: #fff;
+  padding: 18px 22px;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+
+.faq-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.14);
+}
+
+.faq-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faq-question {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 600;
+  color: #000;
+}
+
+.faq-btn {
+ 
+  border: none;
+  padding: 6px 10px;
+ 
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+
+
+.faq-answer {
+  margin-top: 10px;
+  color: #444;
+  font-size: 15px;
+  line-height: 1.5;
+  white-space: pre-line;
+  text-align: left;
+}
