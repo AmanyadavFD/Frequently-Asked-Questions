@@ -27,5 +27,3 @@ The **first FAQ is open by default**, and only one FAQ opens at a time.
 * **CSS3**
 
 
-
-If you want, I can also create a **GitHub description**, **preview GIF**, or **screenshots section** for your README.
